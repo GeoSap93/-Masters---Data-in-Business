@@ -6,7 +6,7 @@ The music streaming industry frequently faces challenges in delivering highly pe
 
 # Assignment Summaries #
 ## Assignment 1: Problem Identification & Exploratory Data Analysis (EDA) ##
-Objective: To identify a real-world issue in music app recommendations and explore the dataset to address this problem.
+_Objective_: To identify a real-world issue in music app recommendations and explore the dataset to address this problem.
 Problem Definition: Many music apps recommend songs based primarily on popularity rather than nuanced preferences like danceability, loudness, or instrumentalness, which can limit the user experience.
 Database Selection: We used the "Spotify World Music Tracks" dataset from Kaggle, containing key musical attributes such as danceability, energy, and loudness.
 EDA Findings: Initial analyses revealed weak correlations between popularity and some track characteristics. Notably:

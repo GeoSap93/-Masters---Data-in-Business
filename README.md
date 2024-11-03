@@ -26,7 +26,7 @@ The music streaming industry frequently faces challenges in delivering highly pe
   - **Scatterplots** highlighted weak correlations between popularity and attributes like loudness and energy.
   - **Pie Charts** demonstrated that most popular tracks are in major keys, suggesting a preference for upbeat music.
   - **Stacked Bar Charts** illustrated the prevalence of tracks with moderate levels of speechiness, instrumentalness, and valence across varying popularity levels.
-**Key Insight:** Tracks with high danceability and positive valence are generally favoured, suggesting that recommendation algorithms should incorporate these preferences to enhance user satisfaction.
+- **Key Insight:** Tracks with high danceability and positive valence are generally favoured, suggesting that recommendation algorithms should incorporate these preferences to enhance user satisfaction.
 
 ## Individual Report: Machine Learning in Social Media ##
 In addition to the group assignments, an individual report on **Machine Learning (ML) in Social Media** provided insights into the application and challenges of ML on platforms like TikTok, Facebook, and Twitter. This report addresses:
